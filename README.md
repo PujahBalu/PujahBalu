@@ -60,6 +60,23 @@ Currently pursuing a Master’s in Information Technology at **Belhaven Universi
 - 🏅 *3rd Place* – E3, Meenakshi Sundararajan Engineering College (2020) – Paper Presentation on “Panic Button” 
 
 ---
+## 🏆 Awards & Recognition in AI, Blockchain, and Emerging Technologies
+
+- 🥇 *1st Place* – **TECHNOVATE**, KRATOS 2.0, Easwari Engineering College (2019–2020)  
+  *Awarded for presenting a research-driven application of Blockchain in Healthcare, emphasizing data integrity and decentralized architecture for secure patient data handling.*
+
+- 🥈 *2nd Place* – **PRAVATNA'20**, Association of Computer Technologists (2020)  
+  *Secured for showcasing innovative use of Artificial Neural Networks in adaptive learning environments and autonomous decision systems.*
+
+- 🥉 *3rd Place* – **E-Cube**, Meenakshi Sundararajan Engineering College (2018–2019)  
+  *Awarded for Blockchain Technology application design with a focus on trust and traceability in smart systems.*
+
+- 🥉 *3rd Place* – **DREADNOUGHT 2K18**, Sai Ram Institute of Technology (2018–2019)  
+  *Recognized for a strategic proposal integrating Blockchain with IoT for secure data transactions in distributed networks.*
+
+- 🏅 *3rd Place* – **E3**, Meenakshi Sundararajan Engineering College (2020)  
+  *Honored for presenting an emergency response system (“Panic Button”) combining embedded systems with real-time data logging and mobile alert dispatching.*
+
 
 ## 🎓 Education
 
