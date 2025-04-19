@@ -44,6 +44,16 @@
 
 ---
 
+### 📚 Top Projects
+
+- 🔗 [Plant Disease Detection](https://github.com/PujahBalu/PlantDiseaseDetection)
+- 📱 [Panic Button - Android Safety App](https://github.com/PujahBalu/PanicButton)
+- 🤖 [AI + Blockchain Trust System](https://github.com/PujahBalu/AI-Blockchain-Trust-Management)
+- 🧠 [Twitter Sentiment Analysis (LSTM)](https://github.com/PujahBalu/Twitter-Sentiment-Analysis-Using-LSTM)
+- 🩺 [Lung Segmentation (U-Net)](https://github.com/PujahBalu/Lung-Segmentation-from-Chest-X-ray-Images-using-U-Net)
+
+---
+
 ### 🔥 GitHub Streak
 
 <p align="center">
