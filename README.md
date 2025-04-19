@@ -55,6 +55,12 @@
 
 ---
 
+🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=PujahBalu&theme=radical&margin-w=15&margin-h=15)
+![image](https://github.com/user-attachments/assets/31f5edf3-d5f3-492f-a14e-69d96ed043de)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
