@@ -35,15 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PujahBalu&show_icons=true&theme=radical" alt="Pujah's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PujahBalu&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ### 📚 Top Projects
 
 - 🔗 [Plant Disease Detection](https://github.com/PujahBalu/PlantDiseaseDetection)
@@ -51,6 +42,15 @@
 - 🤖 [AI + Blockchain Trust System](https://github.com/PujahBalu/AI-Blockchain-Trust-Management)
 - 🧠 [Twitter Sentiment Analysis (LSTM)](https://github.com/PujahBalu/Twitter-Sentiment-Analysis-Using-LSTM)
 - 🩺 [Lung Segmentation (U-Net)](https://github.com/PujahBalu/Lung-Segmentation-from-Chest-X-ray-Images-using-U-Net)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PujahBalu&show_icons=true&theme=radical" alt="Pujah's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PujahBalu&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
