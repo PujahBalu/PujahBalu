@@ -1,27 +1,36 @@
-
-<h1 align="center">Hi there, I'm Pujah 👋</h1>
+<h1 align="center">Hi 👋, I'm Pujah Balasubramaniam</h1>
+<h3 align="center">MS in Information Technology | AI & Blockchain Enthusiast | Cloud & Analytics Explorer</h3>
 
 <p align="center">
-  <b>MS in Information Technology | AI & Blockchain Enthusiast | Cloud Explorer ☁️</b><br>
-  <i>Building resilient systems using NLP, Deep Learning, and Secure Blockchain</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+%7C+AI+%7C+Blockchain+%7C+Cloud;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🔧 Technologies & Tools
+### 🧠 About Me
+
+- 🎓 Graduate: MS in Information Technology from Belhaven University
+- 🧑‍💻 Passionate about AI/ML, NLP, Blockchain, Cloud GIS & Cybersecurity
+- 🛠️ Currently building: Smart utility solutions using AWS & GIS
+- 🔍 Exploring opportunities in AI, Data Science & Tech Consulting
+- 📝 Check out my projects on [GitHub](https://github.com/PujahBalu?tab=repositories)
+
+---
+
+### 💻 Languages and Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hyperledger Fabric-2F3134?style=flat&logo=hyperledger&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-5e5c5c?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockchain-121011?style=for-the-badge&logo=blockchaindotcom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -29,35 +38,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PujahBalu&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PujahBalu&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PujahBalu&show_icons=true&theme=radical" alt="Pujah's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PujahBalu&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
+---
+
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PujahBalu&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PujahBalu&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---
 
-### 🚀 My Projects
-
-- 🌿 [Plant Disease Detection using CNN](https://github.com/PujahBalu/PlantDiseaseDetection)
-- 📱 [Panic Button: Women Safety App](https://github.com/PujahBalu/PanicButton)
-- 🔗 [Blockchain + AI Trust Management](https://github.com/PujahBalu/AI-Blockchain-Trust-Management)
-- 🧠 [Fake News Detection using NLP](https://github.com/PujahBalu/Fake-News-Detection-Using-NLP)
-- 💬 [Twitter Sentiment Analysis using LSTM](https://github.com/PujahBalu/Twitter-Sentiment-Analysis-Using-LSTM)
-- 🫁 [Lung Segmentation with U-Net](https://github.com/PujahBalu/Lung-Segmentation-from-Chest-X-ray-Images-using-U-Net)
-
----
-
-### 📫 Connect With Me
+### 📫 Let's Connect!
 
 <p align="left">
-  <a href="mailto:pujahbalasubramaniam@students.belhaven.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pujah-balu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/PujahBalu"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/pujahbalasubramaniam" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
+  <a href="mailto:pujahbalasubramaniam@students.belhaven.edu"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://github.com/PujahBalu"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
----
-
-<p align="center">✨Thanks for visiting!✨</p>
