@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Data+Science+%7C+AI+%7C+Blockchain+%7C+Cloud;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
 </p>
-
+ 
 ---
 
 ### 🧠 About Me
