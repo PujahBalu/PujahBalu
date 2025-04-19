@@ -52,6 +52,10 @@
 - 🤖 [AI + Blockchain Trust System](https://github.com/PujahBalu/AI-Blockchain-Trust-Management)
 - 🧠 [Twitter Sentiment Analysis (LSTM)](https://github.com/PujahBalu/Twitter-Sentiment-Analysis-Using-LSTM)
 - 🩺 [Lung Segmentation (U-Net)](https://github.com/PujahBalu/Lung-Segmentation-from-Chest-X-ray-Images-using-U-Net)
+- 🚀 [Federated Transformer for Privacy-Preserving Smart Grid Forecasting](https://github.com/PujahBalu/Federated-Transformer-for-Privacy-Preserving-Smart-Grid-Forecasting)
+- 🛰️ [Vision Transformer for Powerline Damage Detection from Satellite Imagery](https://github.com/PujahBalu/Vision-Transformer-for-Powerline-Damage-Detection-from-Satellite-Imagery)
+- 🔧 [IoT Sensor Data Transformer for Anomaly Detection in Smart Grid](https://github.com/PujahBalu/IoT-Sensor-Data-Transformer-for-Anomaly-Detection-in-Smart-Grids)
+- 📰 [News Headline Classifier using DistilBERT](https://github.com/PujahBalu/News-Headline-Classifier-using-DistilBERT)
 
 ---
 
