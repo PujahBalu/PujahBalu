@@ -85,7 +85,7 @@
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/pujahbalasubramaniam" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/pujba/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
   <a href="mailto:pujahbalasubramaniam@students.belhaven.edu"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://github.com/PujahBalu"><img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="github" /></a>
 </p>
