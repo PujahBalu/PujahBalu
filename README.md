@@ -59,12 +59,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PujahBalu&theme=radical&no-bg=true&no-frame=true&margin-w=15)
-
----
-
 ### 🔥 GitHub Streak
 
 <p align="center">
