@@ -44,6 +44,9 @@
 
 ### 📚 Top Projects
 
+- 📊 [HR Workforce Analytics](https://github.com/PujahBalu/HR-Workforce-Analytics)
+- 📉 [Customer Churn Prediction Retention Analytics](https://github.com/PujahBalu/Customer-Churn-Prediction-Retention-Analytics)
+- 🛒 [Retail Sales Customer Behavior Analysis](https://github.com/PujahBalu/Retail-Sales-Customer-Behavior-Analysis)
 - 🔗 [Plant Disease Detection](https://github.com/PujahBalu/PlantDiseaseDetection)
 - 📱 [Panic Button - Android Safety App](https://github.com/PujahBalu/PanicButton)
 - 🤖 [AI + Blockchain Trust System](https://github.com/PujahBalu/AI-Blockchain-Trust-Management)
@@ -59,15 +62,6 @@
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PujahBalu&theme=radical&no-bg=true&no-frame=true&margin-w=15)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PujahBalu&show_icons=true&theme=radical" alt="Pujah's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PujahBalu&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
